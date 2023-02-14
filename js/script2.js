@@ -1,0 +1,1 @@
+// document.write('Ukraine is the best!')
